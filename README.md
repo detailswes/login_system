@@ -3,7 +3,7 @@
 Step 1:  To clone the Repo:
     <br><br>Run the following command in terminal:
 ```bash
-
+git clone https://github.com/detailswes/login_system.git
 ```
 For node js
     <br><br>Please add .env file for backend and add content like 
