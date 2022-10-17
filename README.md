@@ -6,7 +6,7 @@ Step 1:  To clone the Repo:
 git clone https://github.com/detailswes/login_system.git
 ```
 For node js
-    <br><br>Please add .env file for backend and add content like 
+    <br><br>Please add .env file in backend folder and add DB details.
 ```bash
 HOST= <host>
 DB_USER=<user>
